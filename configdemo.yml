@@ -1,5 +1,5 @@
 build:
   id: 101010
   version: 11.0.1
-  name: "git - Dev-Build"
-  type: "git Development build"
+  name: "git - Default-Build"
+  type: "git Default build"
